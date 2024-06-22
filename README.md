@@ -22,8 +22,11 @@ Hello! I am **Lokesh Gupta**, a passionate developer from India.
 
 ## Projects
 
-### Project Name
+### Angular-Tutorials
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Angular-Tutorials&theme=radical)](https://github.com/glokesh94/Angular-Tutorials)
+
+### Python-Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Python-Projects&theme=radical)](https://github.com/glokesh94/Python-Projects)
 
 ### Another Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Socket.IO-Browser-Notification&theme=radical)](https://github.com/glokesh94/Socket.IO-Browser-Notification)
