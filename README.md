@@ -5,9 +5,9 @@
 
 ## About Me
 
-Hello! I am Lokesh Gupta, a passionate developer from India.
+Hello! I am **Lokesh Gupta**, a passionate developer from India.
 
-- 🔭 I’m currently working on TCS as Senior Software Enginner
+- 🔭 I’m currently working on **Tata Consultancy Services Limited (TCS)** as **Senior Software Enginner**
 - 🌱 I’m currently Working on **Angular, React, Node, MySQL, MongoDB, PHP**
 - 💬 About me **Overall 8+ years of experience as a Full Stack Developer with a demonstrated history of working in the information technology and services industry. I enjoy solving complex problems within budget and deadlines putting my skills on PHP, MySQL, Python, Codeigniter, Yii2, Laravel, AngularJS, ReactJS, NodeJS to best use. Thorough Knowledge of UML & visual modeling, application architecture design & business process modeling. Successfully delivered various projects, based on different technologies across the globe.**
 - 📫 How to reach me: [Email](mailto:glokesh94@gmail.com)
