@@ -11,6 +11,13 @@ Hello! I am **Lokesh Gupta**, a passionate developer from India.
 - 🌱 I’m currently Working on **Angular, React, Node, MySQL, MongoDB, PHP**
 - 💬 About me **Overall 8+ years of experience as a Full Stack Developer with a demonstrated history of working in the information technology and services industry. I enjoy solving complex problems within budget and deadlines putting my skills on PHP, MySQL, Python, Codeigniter, Yii2, Laravel, AngularJS, ReactJS, NodeJS to best use. Thorough Knowledge of UML & visual modeling, application architecture design & business process modeling. Successfully delivered various projects, based on different technologies across the globe.**
 - 📫 How to reach me: [Email](mailto:glokesh94@gmail.com)
+  
+Here are my social media links:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-gupta-lokesh/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lokesh.k.gupta/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/i.m.bad.boy.with.good.habit)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@apnavideowaladev/videos)
 
 ## GitHub Stats
 
