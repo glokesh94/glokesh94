@@ -28,5 +28,13 @@ Hello! I am **Lokesh Gupta**, a passionate developer from India.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Leetcode-Solutions&theme=radical)](https://github.com/glokesh94/Leetcode-Solutions)
 
+### Leetcode Solutions Repo Stats
+
+- **Repository:** [Leetcode-Solutions](https://github.com/glokesh94/Leetcode-Solutions)
+- **Stars:** ![GitHub stars](https://img.shields.io/github/stars/glokesh94/Leetcode-Solutions)
+- **Forks:** ![GitHub forks](https://img.shields.io/github/forks/glokesh94/Leetcode-Solutions)
+- **Commits:** 6
+- **Primary Language:** JavaScript 100%
+
 ### Another Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Socket.IO-Browser-Notification&theme=radical)](https://github.com/glokesh94/Socket.IO-Browser-Notification)
