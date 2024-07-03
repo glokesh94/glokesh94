@@ -26,5 +26,7 @@ Hello! I am **Lokesh Gupta**, a passionate developer from India.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Python-Projects&theme=radical)](https://github.com/glokesh94/Python-Projects)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Leetcode-Solutions&theme=radical)](https://github.com/glokesh94/Leetcode-Solutions)
+
 ### Another Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glokesh94&repo=Socket.IO-Browser-Notification&theme=radical)](https://github.com/glokesh94/Socket.IO-Browser-Notification)
